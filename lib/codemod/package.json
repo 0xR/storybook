@@ -7,7 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/storybooks/storybook.git"
   },
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "jscodeshift": "^0.3.30"
   },
